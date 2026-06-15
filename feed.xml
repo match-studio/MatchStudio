@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Match Studio</title>
+    <link href="https://match-studio.github.io/MatchStudio/feed.xml" rel="self" />
+    <link href="https://match-studio.github.io/MatchStudio" />
+    <updated>1970-01-01T03:30:00+03:30</updated>
+    <author>
+        <name>Match</name>
+    </author>
+    <id>https://match-studio.github.io/MatchStudio</id>
+
+</feed>
