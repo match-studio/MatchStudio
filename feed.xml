@@ -3,10 +3,44 @@
     <title>Match Studio</title>
     <link href="https://match-studio.github.io/MatchStudio/feed.xml" rel="self" />
     <link href="https://match-studio.github.io/MatchStudio" />
-    <updated>1970-01-01T03:30:00+03:30</updated>
+    <updated>2026-06-16T05:52:34+03:30</updated>
     <author>
         <name>Match</name>
     </author>
     <id>https://match-studio.github.io/MatchStudio</id>
 
+    <entry>
+        <title>How to create a esp32</title>
+        <author>
+            <name>Match</name>
+        </author>
+        <link href="https://match-studio.github.io/MatchStudio/how-to-create-a-esp32.html"/>
+        <id>https://match-studio.github.io/MatchStudio/how-to-create-a-esp32.html</id>
+
+        <updated>2026-06-16T05:47:55+03:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    fsFSEDfSDFSF sef SZ Fs EDFszfs EF s Fc s Efc SD f sdfvc s dvf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://match-studio.github.io/MatchStudio/media/posts/4/gallery/Image_20250213_1237.png" data-size="881x881">
+        <img loading="lazy" src="https://match-studio.github.io/MatchStudio/media/posts/4/gallery/Image_20250213_1237-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    fsFSEDfSDFSF<br>sef<br>SZ<br>Fs<br>EDFszfs<br>EF<br>s<br>Fc<br>s<br>Efc<br>SD<br>f<br>sdfvc<br>s<br>dvf<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
