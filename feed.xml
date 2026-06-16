@@ -3,7 +3,7 @@
     <title>Match Studio</title>
     <link href="https://match-studio.github.io/MatchStudio/feed.xml" rel="self" />
     <link href="https://match-studio.github.io/MatchStudio" />
-    <updated>2026-06-16T16:28:53+03:30</updated>
+    <updated>2026-06-16T17:09:35+03:30</updated>
     <author>
         <name>Match</name>
     </author>
@@ -29,10 +29,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="/home/matchstudio/Pictures/compre1.jpg" alt="" width="1722" height="1423" data-is-external-image="true"></figure>
+                <figure class="post__image"><img loading="lazy"  src="/home/matchstudio/Pictures/mainpg.jpg" alt="" width="3017" height="1569" data-is-external-image="true"></figure>
 <figure class="post__image"><img loading="lazy"  src="compre1.jpg" alt="" data-is-external-image="true"></figure>
 <p><strong><span class="">This comprehensive guide covers everything you need to generate composite video with an ESP32, including the wiring diagram, source code, and a full parts list</span></strong></p>
 <h1><strong><span class="">Hardware &amp; Components Required</span></strong></h1>
+<figure class="post__image"><img loading="lazy"  src="/home/matchstudio/Pictures/compre1.jpg" alt="" width="3017" height="1569" data-is-external-image="true"></figure>
 <p> </p>
 <table class="align-center" style="border-collapse: collapse; width: 100%; height: 442.5px;" border="1">
 <tbody>
