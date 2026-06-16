@@ -3,7 +3,7 @@
     <title>Match Studio</title>
     <link href="https://match-studio.github.io/MatchStudio/feed.xml" rel="self" />
     <link href="https://match-studio.github.io/MatchStudio" />
-    <updated>2026-06-16T05:52:34+03:30</updated>
+    <updated>2026-06-16T08:42:36+03:30</updated>
     <author>
         <name>Match</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://match-studio.github.io/MatchStudio/how-to-create-a-esp32.html"/>
         <id>https://match-studio.github.io/MatchStudio/how-to-create-a-esp32.html</id>
+            <category term="Esp32"/>
+            <category term="Arduino"/>
 
         <updated>2026-06-16T05:47:55+03:30</updated>
             <summary type="html">

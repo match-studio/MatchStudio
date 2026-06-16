@@ -19,9 +19,11 @@
                 "name": "Match"
             },
             "tags": [
+                   "Esp32",
+                   "Arduino"
             ],
             "date_published": "2026-06-16T05:47:55+03:30",
-            "date_modified": "2026-06-16T05:52:34+03:30"
+            "date_modified": "2026-06-16T08:42:36+03:30"
         }
     ]
 }
