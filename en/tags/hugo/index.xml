@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Match Studio</title>
-    <link>https://example.com/en/tags/hugo/</link>
+    <link>http://match-studio.work.gd/en/tags/hugo/</link>
     <description>Recent content in Hugo on Match Studio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://match-studio.work.gd/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Install PlatformIO On Visual Studio Code</title>
-      <link>https://example.com/en/en/post1/</link>
+      <link>http://match-studio.work.gd/en/en/post1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/en/post1/</guid>
+      <guid>http://match-studio.work.gd/en/en/post1/</guid>
       <description>&lt;p&gt;Are you tired of the Arduino IDE? Would you like a more professional debugging experience—complete with advanced tools and modern features—right inside the world&amp;rsquo;s most popular text editor, Visual Studio? Join us in this article as we&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Installing vscode&lt;/li&gt;&#xA;&lt;li&gt;Installing PlatformIO on vscode&lt;/li&gt;&#xA;&lt;li&gt;setup PlatformIO and Download Boards&lt;/li&gt;&#xA;&lt;li&gt;Write Your First Blink code&lt;/li&gt;&#xA;&lt;li&gt;Build And Flash!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So, stay with us.&lt;/p&gt;&#xA;&lt;h1 id=&#34;installing-vscode&#34;&gt;Installing VScode&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Download VScode from &lt;a href=&#34;https://code.visualstudio.com/download?_exp_download=d53503e735&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Open File Manager and Open File Downloaded Directory&lt;/li&gt;&#xA;&lt;li&gt;Duble Click VScode And Install&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;install-platformio&#34;&gt;Install PlatformIO&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/post-images/p.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34;&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
